@@ -1,0 +1,2 @@
+# the-edge-technologies
+The Edge Technology Specializes in Offering Real-time Experience IT training on Java, Python, Game design and development, 3D Animation and VFX, Web design and development,ui and ux design,Big Data training,Cloud Computing,Cyber Security, visual communication, Character Animation, Core Java, Computer Programming, Virtual Reality and Augmented Reality at Affordable Cost in Chennai.
